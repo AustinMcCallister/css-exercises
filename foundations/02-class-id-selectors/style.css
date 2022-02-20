@@ -1,6 +1,6 @@
 .class-one {
-    color:black;
-    background-color:pink;
+    color:rgba(0,0,0,255);
+    background-color:rgba(255,167,167,255);
     font-family:'Verdana', 'DejaVu Sans', sans-serif;
 }
 
@@ -9,6 +9,6 @@
 }
 
 #id-one {
-    color:blue;
+    color:rgba(0,0,255,255);
     font-size:36px;
 }
